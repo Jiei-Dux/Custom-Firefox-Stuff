@@ -1,6 +1,3 @@
-:root {
-  --small-button-radius: 8px;
-  --tab-min-height:  28px !important;
-  --tabs-shadow-size: 0px !important;
-  --tab-border-radius: 8.5px !important;
+#toolbar-menubar {
+  display: none;
 }
